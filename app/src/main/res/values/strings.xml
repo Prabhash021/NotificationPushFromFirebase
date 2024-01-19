@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationPushFromFirebase</string>
+    <string name="push_notification_from_firebase">Push Notification from Firebase!</string>
+</resources>
